@@ -3,6 +3,7 @@ A repo dedicated for my thesis :D soon will be changed
 
 To do:
 1. cari dataset. nyari NILT susah euy, pilihannya (rec dari a to c):
+
    a. minta dataset PKM (kalo masih ada, ragu)
 
    b. tanya yang udah kompre pada nyari dataset dari mana
