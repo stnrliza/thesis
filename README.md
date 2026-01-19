@@ -17,3 +17,26 @@ A repo dedicated for my thesis :D soon will be changed
 5. tambahin LLM/n8n (atau trending topics tp tetap relevan ga maksa, ada urgensinya)
 
 6. bikin website untuk menghimpun semuanya (front end, back end, cloud, model prediction, otomatisasi, dll)
+
+## KERANGKA LATAR BELAKANG
+1.1.	Latar Belakang
+Masalah nyata  keterbatasan metode saat ini  celah riset  solusi yang diusulkan
+1.	Konteks kesehatan gigi
+   a.	Kesehatan gigi masih jadi isu dominan di kesehatan masyarakat
+   b.	Karies gigi penyakit mulut dominan (beserta pengertian)
+   c.	Karies sekunder sering luput karena terjadi di restorasi
+2.	Tantangan klinis karies sekunder
+   a.	Karies sekunder sulit dideteksi secara visual (beserta pengertian)
+   b.	Bergantung pada pengalaman dokter (leading ke misinterpretasi atau human error)
+   c.	Interpretasi citra NILT tidak selalu trivial
+3.	Keterbatasan pendekatan konvensional
+   a.	Interpretasi manual rawan subjektif
+   b.	Dokumentasi hasil pemeriksaan tidak selalu terstandarisasi
+   c.	Pasien sering tidak memahami hasil pemeriksaan
+4.	Potensi ML sebagai DSS
+   a.	ML efektif untuk analisis citra medis
+   b.	ML cocok digunakan sebagai DSS
+   c.	DSS berupa laporan membantu dokter sebagai pendukung, membantu pasien untuk memahami interpretasi dan dokumentasi
+5.	Celah riset 
+   a.	Sebagian besar penelitian hanya fokus pada akurasi deteksi
+   b.	Skripsi ini dibuat untuk membahas tentang explainable DSS end-to-end: akurasi deteksi, dokumen terstruktur dan mudah dipahami pasien
